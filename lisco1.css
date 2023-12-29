@@ -1,0 +1,63 @@
+/*nav bar button and heading properties*/
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+body{
+    background-image: url("https://res.cloudinary.com/dtygqahbv/image/upload/v1703777605/WhatsApp_Image_2023-12-28_at_4.13.23_PM_1_seegts.jpg");
+}
+.navbar-checkbtn{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.navbar-logo{
+    color: white;
+    font-size: 30px;
+}
+#nav-text{
+    color: white;
+    font-size:18px;
+    font-family: cursive;
+    padding-left:10px;
+}
+/*heading properties*/
+.heading{
+    color:white;
+    text-align: center;
+    font-size:30px;
+    font-family: serif;
+    padding-top:20px;
+}
+/*imgs property*/
+.img{
+    border-radius: 60px;
+}
+/*headings in all the application*/
+.design-heading{
+    color: #e35baa;
+    font-size:25px;
+    font-family: Monospace;
+    text-align: left;
+    font-weight: bold;
+
+}
+/*paragraph in all the applications*/
+.design-paragraph{
+    color: white;
+    font-size:15px;
+    font-weight: normal;
+    font-style: oblique;
+}
+.frame-icon{
+    border-radius: 100px;
+}
+/* Our industries image*/
+.imgs{
+    border-radius: 20px;
+}
+.paragraph{
+    color: white;
+    font-size:20px;
+    padding: 5px;
+    font-family:"Roboto";
+
+}
+
